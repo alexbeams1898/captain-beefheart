@@ -1,0 +1,55 @@
+header {
+  margin-top: 50px;
+  background-image:
+  url(http://www.artnet.com/WebServices/images/ll121962lldUGRJFgpFeR3CfDrCWvaHBOcEmKF/don-van-vliet-dirty-champagne.jpg);
+  background-attachment: fixed;
+}
+body {
+  padding-bottom: 50px;
+}
+h1 {
+  font-size: 100px;
+  margin-bottom: 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+a {
+  color: black;
+}
+blockquote {
+  font-size: 40px;
+  color: white;
+  margin: .8em;
+}
+.beef-font {
+  font-family: Luminari;
+}
+.shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.orange-opaque-back {
+  background-color: rgba(255, 165, 0, .8);
+}
+.round-picture {
+  width: 700px;
+  border-radius: 50%
+}
+.date {
+  font-family: Luminari;
+  font-size: 75px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+.quote-header {
+  font-family: Arial;
+  padding: 1.0em;
+}
+.quotes {
+  background-color: rgb(255,182,193);
+  padding: .6em;
+  border: 2px solid black;
+  border-radius: .3em;
+}
+
